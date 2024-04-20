@@ -41,7 +41,8 @@ alias: CIG G-97CP/G-97CU
 
 ## List of software versions
 - 3FE49717AOCK12 
-- 3FE49717AOCK49 
+- 3FE49717AOCK49
+- 3FE49717AOCK51
 
 ## List of partitions
 
